@@ -15,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BatchFile/AllLibrary.bat.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="34">
+              <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -80,7 +80,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -230,6 +230,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1680" height="965" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24954791" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -372,51 +373,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Reports/8d24f6a9-3af1-4067-affa-6703aba197f5-attachment.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Reports/8cc34ad1-bd85-4b96-b3e1-cd4ce824ce56-attachment.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Reports/7eba8c5f-eb5c-4f6b-81e0-daf924d95047-result.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Reports/b2e0c114-2e07-4c41-aced-97f212e5a116-result.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Reports/e66d0997-f668-425a-80a0-1cf0be41db36-attachment.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Reports/f2f9107d-4841-4fb7-b797-bc1edd9d7de4-attachment.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Reports/eededd92-ce5d-4116-b289-77e84ea09924-attachment.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Reports/0a1a6b2c-732b-48de-b759-1af8a4440de2-result.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Reports/1d7c9cb7-a478-4c80-8eab-f0c2f09a78cf-result.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Reports/6dbf4a85-34da-476a-b4bd-554e3511be64-result.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Reports/7af68df8-7bff-4cd8-a668-1fe66e193a66-attachment.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Reports/7dc5a261-085d-4dd9-a14e-2ce0cceade7b-attachment.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Reports/8d24f6a9-3af1-4067-affa-6703aba197f5-attachment.txt" />
+    <entry file="file://$PROJECT_DIR$/Reports/8cc34ad1-bd85-4b96-b3e1-cd4ce824ce56-attachment.txt" />
+    <entry file="file://$PROJECT_DIR$/Reports/7eba8c5f-eb5c-4f6b-81e0-daf924d95047-result.json" />
+    <entry file="file://$PROJECT_DIR$/Reports/b2e0c114-2e07-4c41-aced-97f212e5a116-result.json" />
+    <entry file="file://$PROJECT_DIR$/Reports/e66d0997-f668-425a-80a0-1cf0be41db36-attachment.txt" />
+    <entry file="file://$PROJECT_DIR$/Reports/f2f9107d-4841-4fb7-b797-bc1edd9d7de4-attachment.txt" />
+    <entry file="file://$PROJECT_DIR$/Reports/eededd92-ce5d-4116-b289-77e84ea09924-attachment.txt" />
+    <entry file="file://$PROJECT_DIR$/Reports/0a1a6b2c-732b-48de-b759-1af8a4440de2-result.json" />
+    <entry file="file://$PROJECT_DIR$/Reports/1d7c9cb7-a478-4c80-8eab-f0c2f09a78cf-result.json" />
+    <entry file="file://$PROJECT_DIR$/Reports/6dbf4a85-34da-476a-b4bd-554e3511be64-result.json" />
+    <entry file="file://$PROJECT_DIR$/Reports/7af68df8-7bff-4cd8-a668-1fe66e193a66-attachment.txt" />
+    <entry file="file://$PROJECT_DIR$/Reports/7dc5a261-085d-4dd9-a14e-2ce0cceade7b-attachment.txt" />
     <entry file="file://$PROJECT_DIR$/BatchFile/Untitled.txt" />
     <entry file="file://$PROJECT_DIR$/BatchFile/AllLibrary.bat.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="34">
+          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
         </state>
       </provider>
     </entry>
